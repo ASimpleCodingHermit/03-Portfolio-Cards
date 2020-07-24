@@ -1,0 +1,27 @@
+{
+  "name": "03-portfolio-cards",
+  "version": "1.0.0",
+  "description": "Portfolio Cards created with HTML, SCSS, JS",
+  "main": "app.js",
+  "scripts": {
+    "watch": "node-sass --watch scss -o css",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ASimpleCodingHermit/03-Portfolio-Cards.git"
+  },
+  "keywords": [
+    "Portfolio",
+    "Cards"
+  ],
+  "author": "Joseph Chu",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ASimpleCodingHermit/03-Portfolio-Cards/issues"
+  },
+  "homepage": "https://github.com/ASimpleCodingHermit/03-Portfolio-Cards#readme",
+  "dependencies": {
+    "node-sass": "^4.14.1"
+  }
+}
